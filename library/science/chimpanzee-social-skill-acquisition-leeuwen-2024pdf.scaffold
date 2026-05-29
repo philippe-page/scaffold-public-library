@@ -1,0 +1,23 @@
+{
+  "manifest": {
+    "version": 1,
+    "exportDate": "2026-05-29T14:33:27.407Z",
+    "packageId": "0cb270a0-48a1-4192-a322-893585b998ab",
+    "sourceName": "chimpanzee-social-skill-acquisition-leeuwen-2024.pdf",
+    "sourceIdentifier": "chimpanzee-social-skill-acquisition-leeuwen-2024.pdf",
+    "sourceJobId": "job_1779667588776_qgy58b2uu",
+    "entityCount": 0,
+    "relationshipCount": 0,
+    "vectorCount": 0,
+    "modelId": "qwen3.6-plus"
+  },
+  "graph": {
+    "exportDate": "2026-05-29T14:33:27.407Z",
+    "entities": [],
+    "relationships": []
+  },
+  "vectors": {
+    "exportDate": "2026-05-29T14:33:27.407Z",
+    "memories": []
+  }
+}

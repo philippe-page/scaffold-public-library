@@ -1,0 +1,23 @@
+{
+  "manifest": {
+    "version": 1,
+    "exportDate": "2026-05-29T14:33:13.286Z",
+    "packageId": "9cb329be-acac-46f6-883a-1c58e3f2113c",
+    "sourceName": "Bush_-_As_We_May_Think_(Life_Magazine_9-10-1945).pdf",
+    "sourceIdentifier": "Bush_-_As_We_May_Think_(Life_Magazine_9-10-1945).pdf",
+    "sourceJobId": "job_1779641679185_m2d55s20z",
+    "entityCount": 0,
+    "relationshipCount": 0,
+    "vectorCount": 0,
+    "modelId": "qwen3.6-plus"
+  },
+  "graph": {
+    "exportDate": "2026-05-29T14:33:13.286Z",
+    "entities": [],
+    "relationships": []
+  },
+  "vectors": {
+    "exportDate": "2026-05-29T14:33:13.286Z",
+    "memories": []
+  }
+}

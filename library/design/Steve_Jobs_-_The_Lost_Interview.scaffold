@@ -1,0 +1,23 @@
+{
+  "manifest": {
+    "version": 1,
+    "exportDate": "2026-05-29T14:33:39.929Z",
+    "packageId": "a9f03e41-d105-49f9-8c8e-e39947dfab2e",
+    "sourceName": "Steve Jobs - The Lost Interview",
+    "sourceIdentifier": "https://www.youtube.com/watch?v=TRZAJY23xio",
+    "sourceJobId": "job_1779920012693_u3sq65f7q",
+    "entityCount": 0,
+    "relationshipCount": 0,
+    "vectorCount": 0,
+    "modelId": "qwen3.6-plus"
+  },
+  "graph": {
+    "exportDate": "2026-05-29T14:33:39.929Z",
+    "entities": [],
+    "relationships": []
+  },
+  "vectors": {
+    "exportDate": "2026-05-29T14:33:39.929Z",
+    "memories": []
+  }
+}
