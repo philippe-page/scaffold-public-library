@@ -38,5 +38,6 @@ jobs:
           git push
 
       - name: Purge jsDelivr catalog cache
+        continue-on-error: true
         run: |
-          curl -fsS -X POST "https://purge.jsdelivr.net/gh/philippe-page/scaffold-public-library@main/catalog.json"
+          curl -sS "https://purge.jsdelivr.net/gh/philippe-page/scaffold-public-library@main/catalog.json"
