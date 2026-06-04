@@ -37,7 +37,6 @@ jobs:
           git commit -m "chore: update catalog.json [skip ci]"
           git push
 
-      - name: Purge jsDelivr cache
+      - name: Purge jsDelivr catalog cache
         run: |
           curl -fsS -X POST "https://purge.jsdelivr.net/gh/philippe-page/scaffold-public-library@main/catalog.json"
-          curl -fsS -X POST "https://purge.jsdelivr.net/gh/philippe-page/scaffold-public-library@main/library/"
