@@ -1,0 +1,153 @@
+{
+  "packages": [
+    {
+      "id": "library/design/My_Game_Story_Reflections_on_Design_and_Storytelling.scaffold",
+      "path": "library/design/My_Game_Story_Reflections_on_Design_and_Storytelling.scaffold",
+      "category": "design",
+      "categoryLabel": "Design",
+      "filename": "My_Game_Story_Reflections_on_Design_and_Storytelling.scaffold",
+      "title": "My Game Story: Reflections on Design and Storytelling",
+      "sourceName": "My Game Story: Reflections on Design and Storytelling",
+      "sourceIdentifier": "https://thereader.mitpress.mit.edu/my-game-story-reflections-on-design-and-storytelling/",
+      "entityCount": 124,
+      "relationshipCount": 143,
+      "vectorCount": 91,
+      "exportDate": "2026-05-29T14:57:17.932Z",
+      "packageId": "218e42eb-2d7b-478d-a276-ed760b98de47",
+      "modelId": "gpt-5.4-mini",
+      "contributor": {
+        "login": "philippe-page",
+        "name": "philippe-page",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/116277312?v=4",
+        "profileUrl": "https://github.com/philippe-page",
+        "contributedAt": "2026-05-29T14:58:33Z",
+        "commitUrl": "https://github.com/philippe-page/scaffold-public-library/commit/d12425382ad3c7486f1b60c5616c9381aefe20a6"
+      }
+    },
+    {
+      "id": "library/design/Steve_Jobs_-_The_Lost_Interview.scaffold",
+      "path": "library/design/Steve_Jobs_-_The_Lost_Interview.scaffold",
+      "category": "design",
+      "categoryLabel": "Design",
+      "filename": "Steve_Jobs_-_The_Lost_Interview.scaffold",
+      "title": "Steve Jobs - The Lost Interview",
+      "sourceName": "Steve Jobs - The Lost Interview",
+      "sourceIdentifier": "https://www.youtube.com/watch?v=TRZAJY23xio",
+      "entityCount": 207,
+      "relationshipCount": 292,
+      "vectorCount": 364,
+      "exportDate": "2026-05-29T14:56:18.639Z",
+      "packageId": "a93d1858-7001-49ec-80b3-6c63075ccf78",
+      "modelId": "qwen3.6-plus",
+      "contributor": {
+        "login": "philippe-page",
+        "name": "philippe-page",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/116277312?v=4",
+        "profileUrl": "https://github.com/philippe-page",
+        "contributedAt": "2026-05-29T14:35:39Z",
+        "commitUrl": "https://github.com/philippe-page/scaffold-public-library/commit/2e7a51433487ffcaa4a670e793623dc39c88790b"
+      }
+    },
+    {
+      "id": "library/science/chimpanzee-social-skill-acquisition-leeuwen-2024pdf.scaffold",
+      "path": "library/science/chimpanzee-social-skill-acquisition-leeuwen-2024pdf.scaffold",
+      "category": "science",
+      "categoryLabel": "Science",
+      "filename": "chimpanzee-social-skill-acquisition-leeuwen-2024pdf.scaffold",
+      "title": "chimpanzee-social-skill-acquisition-leeuwen-2024.pdf",
+      "sourceName": "chimpanzee-social-skill-acquisition-leeuwen-2024.pdf",
+      "sourceIdentifier": "chimpanzee-social-skill-acquisition-leeuwen-2024.pdf",
+      "entityCount": 514,
+      "relationshipCount": 644,
+      "vectorCount": 401,
+      "exportDate": "2026-05-29T14:56:46.050Z",
+      "packageId": "478cf609-9916-42ea-a55f-6451cd4f0118",
+      "modelId": "qwen3.6-plus",
+      "contributor": {
+        "login": "philippe-page",
+        "name": "philippe-page",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/116277312?v=4",
+        "profileUrl": "https://github.com/philippe-page",
+        "contributedAt": "2026-05-29T14:35:39Z",
+        "commitUrl": "https://github.com/philippe-page/scaffold-public-library/commit/2e7a51433487ffcaa4a670e793623dc39c88790b"
+      }
+    },
+    {
+      "id": "library/technology/bitcoin.scaffold",
+      "path": "library/technology/bitcoin.scaffold",
+      "category": "technology",
+      "categoryLabel": "Technology",
+      "filename": "bitcoin.scaffold",
+      "title": "bitcoin",
+      "sourceName": "bitcoin",
+      "sourceIdentifier": "arena:test-pdf-ijxo96r7kug:46455967",
+      "entityCount": 88,
+      "relationshipCount": 108,
+      "vectorCount": 135,
+      "exportDate": "2026-05-29T14:56:59.988Z",
+      "packageId": "4193e68f-c157-4849-9a88-08dbf98d8203",
+      "modelId": "qwen3.6-plus",
+      "contributor": {
+        "login": "philippe-page",
+        "name": "philippe-page",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/116277312?v=4",
+        "profileUrl": "https://github.com/philippe-page",
+        "contributedAt": "2026-05-29T14:58:33Z",
+        "commitUrl": "https://github.com/philippe-page/scaffold-public-library/commit/d12425382ad3c7486f1b60c5616c9381aefe20a6"
+      }
+    },
+    {
+      "id": "library/technology/Bush_-_As_We_May_Think_Life_Magazine_9-10-1945pdf.scaffold",
+      "path": "library/technology/Bush_-_As_We_May_Think_Life_Magazine_9-10-1945pdf.scaffold",
+      "category": "technology",
+      "categoryLabel": "Technology",
+      "filename": "Bush_-_As_We_May_Think_Life_Magazine_9-10-1945pdf.scaffold",
+      "title": "Bush_-_As_We_May_Think_(Life_Magazine_9-10-1945).pdf",
+      "sourceName": "Bush_-_As_We_May_Think_(Life_Magazine_9-10-1945).pdf",
+      "sourceIdentifier": "Bush_-_As_We_May_Think_(Life_Magazine_9-10-1945).pdf",
+      "entityCount": 212,
+      "relationshipCount": 293,
+      "vectorCount": 164,
+      "exportDate": "2026-05-29T14:56:50.871Z",
+      "packageId": "3963a5ec-d98b-4180-83e3-8a9a8e60f73d",
+      "modelId": "qwen3.6-plus",
+      "contributor": {
+        "login": "philippe-page",
+        "name": "philippe-page",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/116277312?v=4",
+        "profileUrl": "https://github.com/philippe-page",
+        "contributedAt": "2026-05-29T14:35:39Z",
+        "commitUrl": "https://github.com/philippe-page/scaffold-public-library/commit/2e7a51433487ffcaa4a670e793623dc39c88790b"
+      }
+    },
+    {
+      "id": "library/technology/licklider60_man_comput_symbiospdf.scaffold",
+      "path": "library/technology/licklider60_man_comput_symbiospdf.scaffold",
+      "category": "technology",
+      "categoryLabel": "Technology",
+      "filename": "licklider60_man_comput_symbiospdf.scaffold",
+      "title": "licklider60_man_comput_symbios.pdf",
+      "sourceName": "licklider60_man_comput_symbios.pdf",
+      "sourceIdentifier": "licklider60_man_comput_symbios.pdf",
+      "entityCount": 0,
+      "relationshipCount": 0,
+      "vectorCount": 240,
+      "exportDate": "2026-05-29T14:56:54.004Z",
+      "packageId": "8544ce66-9ed0-478a-bd82-e22a4a9ed621",
+      "modelId": "qwen3.6-plus",
+      "contributor": {
+        "login": "philippe-page",
+        "name": "philippe-page",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/116277312?v=4",
+        "profileUrl": "https://github.com/philippe-page",
+        "contributedAt": "2026-05-29T14:58:33Z",
+        "commitUrl": "https://github.com/philippe-page/scaffold-public-library/commit/d12425382ad3c7486f1b60c5616c9381aefe20a6"
+      }
+    }
+  ],
+  "categories": [
+    "design",
+    "science",
+    "technology"
+  ]
+}
