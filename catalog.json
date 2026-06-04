@@ -73,6 +73,30 @@
       }
     },
     {
+      "id": "library/science/thermodynamics-of-mindpdf.scaffold",
+      "path": "library/science/thermodynamics-of-mindpdf.scaffold",
+      "category": "science",
+      "categoryLabel": "Science",
+      "filename": "thermodynamics-of-mindpdf.scaffold",
+      "title": "thermodynamics-of-mind.pdf",
+      "sourceName": "thermodynamics-of-mind.pdf",
+      "sourceIdentifier": "thermodynamics-of-mind.pdf",
+      "entityCount": 315,
+      "relationshipCount": 418,
+      "vectorCount": 408,
+      "exportDate": "2026-06-04T19:58:03.000Z",
+      "packageId": "f9b971b8-61a1-49c0-a691-429d43f1ef16",
+      "modelId": "qwen3.6-plus",
+      "contributor": {
+        "login": "philippe-page",
+        "name": "philippe-page",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/116277312?v=4",
+        "profileUrl": "https://github.com/philippe-page",
+        "contributedAt": "2026-06-04T19:58:37Z",
+        "commitUrl": "https://github.com/philippe-page/scaffold-public-library/commit/d321932f1ec3c7ef75b79ea2fdeffd2e030235b8"
+      }
+    },
+    {
       "id": "library/technology/bitcoin.scaffold",
       "path": "library/technology/bitcoin.scaffold",
       "category": "technology",
